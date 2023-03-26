@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
 ### Olá! Eu me chamo Márcio Roberto ✌️
 
 Sou estudante de Engenharia da Computação na Universidade Estadual de Feira de Santana (UEFS)<br> 
@@ -34,5 +32,3 @@ Sou estudante de Engenharia da Computação na Universidade Estadual de Feira de
 <img alt="css3_logo" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">  
 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
