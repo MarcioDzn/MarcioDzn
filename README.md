@@ -22,6 +22,8 @@ Sou estudante de Engenharia da Computação na Universidade Estadual de Feira de
 
 ### :star: GitHub Stats
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MarcioDzn&label=Profile%20views&color=0e75b6&style=flat" alt="MarcioDzn" /> </p>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarcioDzn&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioDzn&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
