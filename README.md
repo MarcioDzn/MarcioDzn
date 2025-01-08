@@ -37,6 +37,8 @@ Sou estudante de Engenharia da Computação na Universidade Estadual de Feira de
 
 <img alt="scikitlearn_logo" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
+<img alt="tensorflow_logo" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+
 </div>
 
 ### :star: GitHub Stats
