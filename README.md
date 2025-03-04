@@ -1,10 +1,10 @@
-### Olá 👋! Eu me chamo Márcio Roberto 
+## Olá 👋! Eu me chamo Márcio Roberto 
 
 Sou estudante de Engenharia da Computação na Universidade Estadual de Feira de Santana (UEFS). 
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marciodzn/)
 
-### :rocket: Ferramentas e tecnologias
+## :rocket: Ferramentas e tecnologias
 
 <div style="display: inline-block"> 
 	
@@ -26,7 +26,7 @@ Sou estudante de Engenharia da Computação na Universidade Estadual de Feira de
 	
 </div>
 
-### :book: Atualmente estou aprendendo <br> 
+## :book: Atualmente estou aprendendo <br> 
 <div style="display: inline-block"> 
 	
 <img alt="pandas_logo" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
@@ -39,13 +39,4 @@ Sou estudante de Engenharia da Computação na Universidade Estadual de Feira de
 
 <img alt="tensorflow_logo" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 
-</div>
-
-### :star: GitHub Stats
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MarcioDzn&label=Profile%20views&color=0e75b6&style=flat" alt="MarcioDzn" /> </p>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarcioDzn&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioDzn&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
