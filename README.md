@@ -27,5 +27,3 @@ Sou estudante de Engenharia da Computação na Universidade Estadual de Feira de
 <img alt="postgresql_logo" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 	
 </div>
-
-<sub>Alguem esteve aqui 28/10/2026</sub>
